@@ -1,0 +1,8 @@
+# Integer Types
+|Type|Storage (Bytes)|Maximum Value (Unsigned)|
+|-|-|-|
+|TINYINT|1|255|
+|SMALLINT|2|65535|
+|MEDIUMINT|3|16777215|
+|INT|4|4294967295|
+|BIGINT|8|18446744073709551615|
